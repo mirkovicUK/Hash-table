@@ -1,0 +1,6 @@
+Usage: ./speller [DICTIONARY] text
+
+for example:
+./speller dictionaries/large texts/aca.txt
+
+check output against keys/aca.txt
